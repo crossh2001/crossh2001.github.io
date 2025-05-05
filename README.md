@@ -11,7 +11,7 @@ This is a project I did for my masters research paper, where I build a recommend
 ## Overview Of The Singular Value Decomposition Architecture  
 ![](images/Picture%201.png) 
 ## Popular Movie Genres  
-![](Images/Picture%202.png)
+![](images/Picture%202.png)
 
 
 # [Project 2: Amazon Price Scrapper](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
